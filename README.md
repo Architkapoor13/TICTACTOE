@@ -6,7 +6,19 @@ This is the implementation of the **minimax** algorithm. In this the AI plays wi
 **Funfact: It never lets you win!**
 
 Videos:
-AI plays as O:
-![tie](video/tie.mp4)
-AI plays as X:
+***
+AI plays as O:  
+![tie](https://media.giphy.com/media/O4lwTnnlbaYohPf5Q8/giphy.gif)  
+***
+AI plays as X:  
 ![AI-won](https://media.giphy.com/media/BL9JDvdxSWIugRHJBV/giphy.gif)
+
+### How to run
+```Bash
+python runner.py
+```
+
+### Requirements
+```Bash
+pip install pygame
+```
