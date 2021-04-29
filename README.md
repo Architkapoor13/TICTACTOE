@@ -9,4 +9,4 @@ Videos:
 AI plays as O:
 ![tie](video/tie.mp4)
 AI plays as X:
-![AI-won](video/AI-won.mp4)
+![AI-won](https://media.giphy.com/media/BL9JDvdxSWIugRHJBV/giphy.gif)
